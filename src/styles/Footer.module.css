@@ -1,0 +1,43 @@
+.footer {
+  padding: 50px 20px;
+  text-align: center;
+  background: white;
+  border-top: 5px solid var(--accent-pink);
+  margin-top: auto;
+}
+
+.stats {
+  background: var(--accent-blue);
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 15px;
+  color: var(--text-main);
+  border: 2px solid white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.contactLinks {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.contactLinks a {
+  font-size: 2rem;
+  text-decoration: none;
+  transition: transform 0.3s;
+  display: inline-block;
+}
+
+.contactLinks a:hover {
+  transform: scale(1.3) rotate(10deg);
+}
+
+.copyright {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}

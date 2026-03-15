@@ -1,0 +1,43 @@
+/* ─── CSS Variables ──────────────────────────────────────────────────── */
+:root {
+  --bg-color: #fffaf0;
+  --accent-pink: #ffdae9;
+  --hot-pink: #ff85a2;
+  --accent-blue: #dcf2ff;
+  --text-main: #5d576b;
+  --shadow: 0 10px 25px rgba(255, 182, 193, 0.3);
+  --glass: rgba(255, 255, 255, 0.9);
+}
+
+/* ─── Reset ──────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* ─── Body ───────────────────────────────────────────────────────────── */
+body {
+  background-color: var(--bg-color);
+  background-image: radial-gradient(#ffd1dc 2px, transparent 2px);
+  background-size: 40px 40px;
+  font-family: 'Quicksand', sans-serif;
+  color: var(--text-main);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ─── Bounce animation (used by Header banner) ───────────────────────── */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-5px); }
+}

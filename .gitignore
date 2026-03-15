@@ -1,0 +1,8 @@
+# ignore node_modules files
+node_modules
+
+#ignore auto generated files
+**/.DS_Store
+
+#ignore specific files
+public/array2json.py
