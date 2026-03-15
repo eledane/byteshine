@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180" width="160" height="180">
+  <!-- Card background -->
+  <rect width="160" height="180" rx="16" fill="white" stroke="#ffdae9" stroke-width="3"/>
+
+  <!-- Title -->
+  <text x="80" y="22" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#ff85a2">WeChat</text>
+  <text x="80" y="36" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#ff85a2">Elysee01</text>
+
+  <!-- QR outer border -->
+  <rect x="20" y="44" width="120" height="120" rx="8" fill="#fff5f8" stroke="#ffb3c6" stroke-width="2"/>
+
+  <!-- QR finder pattern - top left -->
+  <rect x="28" y="52" width="28" height="28" rx="3" fill="#ff85a2"/>
+  <rect x="32" y="56" width="20" height="20" rx="2" fill="white"/>
+  <rect x="36" y="60" width="12" height="12" rx="1" fill="#ff85a2"/>
+
+  <!-- QR finder pattern - top right -->
+  <rect x="104" y="52" width="28" height="28" rx="3" fill="#ff85a2"/>
+  <rect x="108" y="56" width="20" height="20" rx="2" fill="white"/>
+  <rect x="112" y="60" width="12" height="12" rx="1" fill="#ff85a2"/>
+
+  <!-- QR finder pattern - bottom left -->
+  <rect x="28" y="128" width="28" height="28" rx="3" fill="#ff85a2"/>
+  <rect x="32" y="132" width="20" height="20" rx="2" fill="white"/>
+  <rect x="36" y="136" width="12" height="12" rx="1" fill="#ff85a2"/>
+
+  <!-- QR data dots (decorative pattern) -->
+  <rect x="68" y="52" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="78" y="52" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="88" y="52" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="98" y="52" width="6" height="6" rx="1" fill="#ff85a2"/>
+
+  <rect x="68" y="62" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="78" y="62" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="88" y="62" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="98" y="62" width="6" height="6" rx="1" fill="#ffb3c6"/>
+
+  <rect x="68" y="72" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="78" y="72" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="88" y="72" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="98" y="72" width="6" height="6" rx="1" fill="#ff85a2"/>
+
+  <rect x="28" y="88" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="38" y="88" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="48" y="88" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="58" y="88" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="68" y="88" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="78" y="88" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="88" y="88" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="98" y="88" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="108" y="88" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="118" y="88" width="6" height="6" rx="1" fill="#ffb3c6"/>
+
+  <rect x="28" y="98" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="48" y="98" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="68" y="98" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="78" y="98" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="98" y="98" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="118" y="98" width="6" height="6" rx="1" fill="#ff85a2"/>
+
+  <rect x="38" y="108" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="58" y="108" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="68" y="108" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="88" y="108" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="108" y="108" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="118" y="108" width="6" height="6" rx="1" fill="#ffb3c6"/>
+
+  <rect x="68" y="118" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="78" y="118" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="88" y="118" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="98" y="118" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="108" y="118" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="118" y="118" width="6" height="6" rx="1" fill="#ffb3c6"/>
+
+  <rect x="68" y="128" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="78" y="128" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="88" y="128" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="98" y="128" width="6" height="6" rx="1" fill="#ff85a2"/>
+  <rect x="108" y="128" width="6" height="6" rx="1" fill="#ffb3c6"/>
+  <rect x="118" y="128" width="6" height="6" rx="1" fill="#ff85a2"/>
+
+  <!-- sparkle decoration -->
+  <text x="148" y="48" font-size="12" text-anchor="middle">✨</text>
+  <text x="14" y="170" font-size="10" text-anchor="middle">🌸</text>
+  <text x="148" y="170" font-size="10" text-anchor="middle">🌸</text>
+</svg>

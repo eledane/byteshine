@@ -12,6 +12,12 @@
   margin: 0;
 }
 
+/* bounce keyframe MUST live in the same module file for CSS Modules to resolve it */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-7px); }
+}
+
 .banner {
   display: inline-block;
   background: white;
@@ -23,13 +29,18 @@
   font-size: 1.1rem;
   margin: 15px 0;
   box-shadow: var(--shadow);
-  animation: bounce 2s infinite;
+  animation: bounce 2s ease-in-out infinite;
 }
 
 .searchContainer {
   margin: 10px auto 30px;
   max-width: 450px;
   padding: 0 15px;
+}
+
+@keyframes searchGlow {
+  0%, 100% { box-shadow: var(--shadow); }
+  50%       { box-shadow: 0 0 0 5px rgba(255, 133, 162, 0.2), var(--shadow); }
 }
 
 .searchBox {
@@ -43,9 +54,15 @@
   text-align: left;
   font-family: 'Quicksand', sans-serif;
   color: var(--text-main);
+  transition: border-color 0.2s;
 }
 
-/* ─── Responsive ────────────────────────────────────────────────────── */
+.searchBox:focus {
+  border-color: var(--hot-pink);
+  animation: searchGlow 1.5s ease-in-out infinite;
+}
+
+/* ─── Responsive ─────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .title  { font-size: 2.5rem; }
   .banner { font-size: 0.9rem; padding: 10px 15px; width: 90%; }

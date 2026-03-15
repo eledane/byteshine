@@ -13,6 +13,11 @@
   padding: 30px 0;
 }
 
+@keyframes sparkle {
+  0%, 100% { transform: scale(1);    box-shadow: var(--shadow); }
+  50%       { transform: scale(1.05); box-shadow: 0 0 0 6px rgba(255, 133, 162, 0.2), var(--shadow); }
+}
+
 .btnMore {
   background: white;
   color: var(--hot-pink);
@@ -23,11 +28,14 @@
   border-radius: 30px;
   cursor: pointer;
   transition: background 0.3s, color 0.3s;
+  animation: sparkle 2s ease-in-out infinite;
 }
 
 .btnMore:hover {
   background: var(--hot-pink);
   color: white;
+  animation: none;
+  transform: scale(1.06);
 }
 
 .loading {
@@ -49,7 +57,7 @@
   opacity: 0.7;
 }
 
-/* ─── Responsive ────────────────────────────────────────────────────── */
+/* ─── Responsive ─────────────────────────────────────────────────────── */
 @media (max-width: 1024px) { .grid { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 768px)  { .grid { grid-template-columns: repeat(2, 1fr); gap: 15px; } }
 @media (max-width: 480px)  { .grid { grid-template-columns: repeat(1, 1fr); } }

@@ -23,8 +23,8 @@ export default function Gallery({ data, loading, error, visibleCount, onLoadMore
   return (
     <>
       <div className={styles.grid}>
-        {visibleItems.map((item) => (
-          <DanceCard key={item.id} item={item} onOpen={onOpen} />
+        {visibleItems.map((item, idx) => (
+          <DanceCard key={item.id} item={item} index={idx} onOpen={onOpen} />
         ))}
       </div>
 

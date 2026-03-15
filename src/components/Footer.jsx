@@ -8,13 +8,21 @@ export default function Footer({ totalCount }) {
       </div>
 
       <div className={styles.contactLinks}>
-        <a href="Elysee01" title="WeChat">💬</a>
-        <a href="https://github.com/eledane" title="GitHub">🐙</a>
-        <a href="https://space.bilibili.com/3493282912930141" title="Bilibil">📺</a>
+        {/* WeChat — shows QR code on hover */}
+        <div className={styles.wechatWrapper}>
+          <a href="#" title="WeChat" className={styles.wechatIcon}>💬</a>
+          <div className={styles.qrPopup}>
+            <img src="/wechat_qr.svg" alt="WeChat QR Code" />
+            <p>扫码添加微信</p>
+          </div>
+        </div>
+
+        <a href="https://github.com/eledane" title="GitHub" target="_blank" rel="noreferrer">🐙</a>
+        <a href="https://space.bilibili.com/3493282912930141" title="Bilibili" target="_blank" rel="noreferrer">📺</a>
         <a href="mailto:guangzhiwoxin@gmail.com" title="Email">✉️</a>
       </div>
 
-      <p className={styles.copyright}>© 2026 Byteshine| kawaii dance!</p>
+      <p className={styles.copyright}>© 2026 Byteshine | kawaii dance!</p>
     </footer>
   );
 }

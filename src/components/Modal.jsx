@@ -1,5 +1,9 @@
 import styles from '../styles/Modal.module.css';
 
+function getPosterPath(item) {
+  return item.location.webm.replace(/\.webm$/, '.png');
+}
+
 export default function Modal({ item, onClose }) {
   if (!item) return null;
 
@@ -14,10 +18,15 @@ export default function Modal({ item, onClose }) {
           ×
         </button>
 
-        <img
-          className={styles.gif}
-          src={item.location.gif}
-          alt={item.name.en_name}
+        <video
+          key={item.location.webm}
+          className={styles.video}
+          src={item.location.webm}
+          poster={getPosterPath(item)}
+          autoPlay
+          loop
+          muted
+          playsInline
         />
 
         <h2 className={styles.title}>{item.name.en_name}</h2>

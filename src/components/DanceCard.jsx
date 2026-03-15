@@ -1,24 +1,26 @@
 import { useRef } from 'react';
 import styles from '../styles/DanceCard.module.css';
 
-function getStaticPath(item) {
-  const folder = item.location.gif.substring(0, item.location.gif.lastIndexOf('/'));
-  return `${folder}/${item.machine_name}.png`;
+function getPosterPath(item) {
+  return item.location.webm.replace(/\.webm$/, '.png');
 }
 
-export default function DanceCard({ item, onOpen }) {
-  const imgRef   = useRef(null);
+export default function DanceCard({ item, index, onOpen }) {
+  const videoRef = useRef(null);
   const audioRef = useRef(null);
 
-  const staticPath = getStaticPath(item);
+  const posterPath = getPosterPath(item);
 
   const handleMouseEnter = () => {
-    if (imgRef.current)   imgRef.current.src = item.location.gif;
+    if (videoRef.current) videoRef.current.play().catch(() => {});
     if (audioRef.current) audioRef.current.play().catch(() => {});
   };
 
   const handleMouseLeave = () => {
-    if (imgRef.current)   imgRef.current.src = staticPath;
+    if (videoRef.current) {
+      videoRef.current.pause();
+      videoRef.current.currentTime = 0;
+    }
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
@@ -26,6 +28,10 @@ export default function DanceCard({ item, onOpen }) {
   };
 
   const handleClick = () => {
+    if (videoRef.current) {
+      videoRef.current.pause();
+      videoRef.current.currentTime = 0;
+    }
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
@@ -33,9 +39,13 @@ export default function DanceCard({ item, onOpen }) {
     onOpen(item);
   };
 
+  // stagger each card's entrance by its position (capped at 500ms so late cards aren't too slow)
+  const staggerDelay = `${Math.min(index * 60, 500)}ms`;
+
   return (
     <div
       className={styles.card}
+      style={{ animationDelay: staggerDelay }}
       data-internal-id={item.id}
       data-machine-name={item.machine_name}
       onMouseEnter={handleMouseEnter}
@@ -44,8 +54,16 @@ export default function DanceCard({ item, onOpen }) {
     >
       <div className={styles.idBadge}>#{item.id}</div>
 
-      <div className={styles.gifFrame}>
-        <img ref={imgRef} src={staticPath} alt={item.name.en_name} />
+      <div className={styles.videoFrame}>
+        <video
+          ref={videoRef}
+          src={item.location.webm}
+          poster={posterPath}
+          muted
+          loop
+          playsInline
+          preload="none"
+        />
         <audio ref={audioRef} src={item.location.mp3} loop />
       </div>
 

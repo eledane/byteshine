@@ -2,10 +2,11 @@ import { useState, useEffect, useCallback } from 'react';
 
 import { useDanceData } from './hooks/useDanceData';
 
-import Header  from './components/Header';
-import Gallery from './components/Gallery';
-import Modal   from './components/Modal';
-import Footer  from './components/Footer';
+import Header            from './components/Header';
+import Gallery           from './components/Gallery';
+import Modal             from './components/Modal';
+import Footer            from './components/Footer';
+import FloatingParticles from './components/FloatingParticles';
 
 const ITEMS_PER_PAGE = 12;
 
@@ -16,7 +17,6 @@ export default function App() {
   const [visibleCount, setVisibleCount] = useState(ITEMS_PER_PAGE);
   const [modalItem,    setModalItem]    = useState(null);
 
-  // Reset pagination whenever search changes
   useEffect(() => {
     setVisibleCount(ITEMS_PER_PAGE);
   }, [searchTerm]);
@@ -29,10 +29,9 @@ export default function App() {
       );
 
   const handleOpenModal = useCallback((item) => {
-    // Stop all card audio before opening modal
-    document.querySelectorAll('audio').forEach((a) => {
-      a.pause();
-      a.currentTime = 0;
+    document.querySelectorAll('audio, video').forEach((m) => {
+      m.pause();
+      m.currentTime = 0;
     });
     setModalItem(item);
   }, []);
@@ -47,6 +46,8 @@ export default function App() {
 
   return (
     <>
+      <FloatingParticles />
+
       <Header
         searchTerm={searchTerm}
         onSearchChange={setSearchTerm}
