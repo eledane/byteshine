@@ -12,7 +12,7 @@ export default function Footer({ totalCount }) {
         <div className={styles.wechatWrapper}>
           <a href="#" title="WeChat" className={styles.wechatIcon}>💬</a>
           <div className={styles.qrPopup}>
-            <img src="/wechat_qr.svg" alt="WeChat QR Code" />
+            <img src="/wechat_qr.png" alt="WeChat QR Code" />
             <p>扫码添加微信</p>
           </div>
         </div>

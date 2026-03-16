@@ -6,9 +6,13 @@ export default function Header({ searchTerm, onSearchChange }) {
       <h1 className={styles.title}>✨ Byte Shine ✨</h1>
 
       <div className={styles.banner}>
-        🌸 本页面所有角色及动作均可免费下载，如需高清版webm及其他格式，如mp4及背景透明的mov，gif，可联系我 🌸
+        🌸 1.本站展示的所有角色及动作均为透明背景的webm格式🌸
+        <br />
+        🌸 2.如需高清版其他格式如mp4及背景透明mov,gif等,请联系我! 🌸
         <br/>
-        🌸 如果你想制作自己的角色及动作，请联系我! 🌸
+        🌸 3.如果你想制作自己的角色及动作，请联系我! 🌸
+        <br />
+        🌸 4. Contact me if you want to make you own character and motions! 🌸
       </div>
 
       <div className={styles.searchContainer}>
