@@ -1,1 +1,434 @@
-[{"id": 1, "machine_name": "gokuraku_jodo", "name": {"cn_name": "极乐净土", "en_name": "gokuraku jodo"}, "location": {"webm": "./assets/gokuraku_jodo/gokuraku_jodo.webm", "mp3": "./assets/gokuraku_jodo/gokuraku_jodo.mp3"}}, {"id": 2, "machine_name": "yunnan_datiao", "name": {"cn_name": "云南打跳", "en_name": "yunnan datiao"}, "location": {"webm": "./assets/yunnan_datiao/yunnan_datiao.webm", "mp3": "./assets/yunnan_datiao/yunnan_datiao.mp3"}}, {"id": 3, "machine_name": "guagua_dance", "name": {"cn_name": "呱呱舞蹈", "en_name": "guagua dance"}, "location": {"webm": "./assets/guagua_dance/guagua_dance.webm", "mp3": "./assets/guagua_dance/guagua_dance.mp3"}}]
+[
+  {
+    "id": 1,
+    "machine_name": "gokuraku_jodo",
+    "name": {
+      "cn_name": "极乐净土",
+      "en_name": "gokuraku jodo"
+    },
+    "location": {
+      "webm": "./assets/gokuraku_jodo/gokuraku_jodo.webm",
+      "mp3": "./assets/gokuraku_jodo/gokuraku_jodo.mp3"
+    }
+  },
+  {
+    "id": 2,
+    "machine_name": "yunnan_datiao",
+    "name": {
+      "cn_name": "云南打跳",
+      "en_name": "yunnan datiao"
+    },
+    "location": {
+      "webm": "./assets/yunnan_datiao/yunnan_datiao.webm",
+      "mp3": "./assets/yunnan_datiao/yunnan_datiao.mp3"
+    }
+  },
+  {
+    "id": 3,
+    "machine_name": "guagua_dance",
+    "name": {
+      "cn_name": "呱呱舞",
+      "en_name": "guagua dance"
+    },
+    "location": {
+      "webm": "./assets/guagua_dance/guagua_dance.webm",
+      "mp3": "./assets/guagua_dance/guagua_dance.mp3"
+    }
+  },
+  {
+    "id": 4,
+    "machine_name": "aibao_dance_hall_v2",
+    "name": {
+      "cn_name": "爱包ダンスホール",
+      "en_name": "Heart Pie Dancehall"
+    },
+    "location": {
+      "webm": "./assets/aibao_dance_hall_v2/aibao_dance_hall_v2.webm",
+      "mp3": "./assets/aibao_dance_hall_v2/aibao_dance_hall_v2.mp3"
+    }
+  },
+  {
+    "id": 5,
+    "machine_name": "all_night",
+    "name": {
+      "cn_name": "",
+      "en_name": "all night"
+    },
+    "location": {
+      "webm": "./assets/all_night/all_night.webm",
+      "mp3": "./assets/all_night/all_night.mp3"
+    }
+  },
+  {
+    "id": 6,
+    "machine_name": "bling_bang_bang_born",
+    "name": {
+      "cn_name": "",
+      "en_name": "bling bang bang born"
+    },
+    "location": {
+      "webm": "./assets/bling_bang_bang_born/bling_bang_bang_born.webm",
+      "mp3": "./assets/bling_bang_bang_born/bling_bang_bang_born.mp3"
+    }
+  },
+  {
+    "id": 7,
+    "machine_name": "brother_louis",
+    "name": {
+      "cn_name": "",
+      "en_name": "brother louis"
+    },
+    "location": {
+      "webm": "./assets/brother_louis/brother_louis.webm",
+      "mp3": "./assets/brother_louis/brother_louis.mp3"
+    }
+  },
+  {
+    "id": 8,
+    "machine_name": "chipi_chapa",
+    "name": {
+      "cn_name": "",
+      "en_name": "chipi chapa"
+    },
+    "location": {
+      "webm": "./assets/chipi_chapa/chipi_chapa.webm",
+      "mp3": "./assets/chipi_chapa/chipi_chapa.mp3"
+    }
+  },
+  {
+    "id": 9,
+    "machine_name": "cute_love",
+    "name": {
+      "cn_name": "",
+      "en_name": "cute love"
+    },
+    "location": {
+      "webm": "./assets/cute_love/cute_love.webm",
+      "mp3": "./assets/cute_love/cute_love.mp3"
+    }
+  },
+  {
+    "id": 10,
+    "machine_name": "everytime_we_touch",
+    "name": {
+      "cn_name": "",
+      "en_name": "everytime we touch"
+    },
+    "location": {
+      "webm": "./assets/everytime_we_touch/everytime_we_touch.webm",
+      "mp3": "./assets/everytime_we_touch/everytime_we_touch.mp3"
+    }
+  },
+  {
+    "id": 11,
+    "machine_name": "fate",
+    "name": {
+      "cn_name": "命运",
+      "en_name": "fate"
+    },
+    "location": {
+      "webm": "./assets/fate/fate.webm",
+      "mp3": "./assets/fate/fate.mp3"
+    }
+  },
+  {
+    "id": 12,
+    "machine_name": "funny_indian_dance",
+    "name": {
+      "cn_name": "搞笑印度舞",
+      "en_name": "funny indian dance"
+    },
+    "location": {
+      "webm": "./assets/funny_indian_dance/funny_indian_dance.webm",
+      "mp3": "./assets/funny_indian_dance/funny_indian_dance.mp3"
+    }
+  },
+  {
+    "id": 13,
+    "machine_name": "green_apple_park",
+    "name": {
+      "cn_name": "青苹果乐园",
+      "en_name": "green apple park"
+    },
+    "location": {
+      "webm": "./assets/green_apple_park/green_apple_park.webm",
+      "mp3": "./assets/green_apple_park/green_apple_park.mp3"
+    }
+  },
+  {
+    "id": 14,
+    "machine_name": "haoyunlai",
+    "name": {
+      "cn_name": "好运来",
+      "en_name": "haoyunlai"
+    },
+    "location": {
+      "webm": "./assets/haoyunlai/haoyunlai.webm",
+      "mp3": "./assets/haoyunlai/haoyunlai.mp3"
+    }
+  },
+  {
+    "id": 15,
+    "machine_name": "heyhey_dance",
+    "name": {
+      "cn_name": "嘿嘿舞",
+      "en_name": "heyhey dance"
+    },
+    "location": {
+      "webm": "./assets/heyhey_dance/heyhey_dance.webm",
+      "mp3": "./assets/heyhey_dance/heyhey_dance.mp3"
+    }
+  },
+  {
+    "id": 16,
+    "machine_name": "huguangsheng",
+    "name": {
+      "cn_name": "胡广生",
+      "en_name": "huguangsheng"
+    },
+    "location": {
+      "webm": "./assets/huguangsheng/huguangsheng.webm",
+      "mp3": "./assets/huguangsheng/huguangsheng.mp3"
+    }
+  },
+  {
+    "id": 17,
+    "machine_name": "in_your_dreams",
+    "name": {
+      "cn_name": "初恋情人",
+      "en_name": "in your dreams"
+    },
+    "location": {
+      "webm": "./assets/in_your_dreams/in_your_dreams.webm",
+      "mp3": "./assets/in_your_dreams/in_your_dreams.mp3"
+    }
+  },
+  {
+    "id": 18,
+    "machine_name": "jingchuanliyu",
+    "name": {
+      "cn_name": "井川里予舞",
+      "en_name": "jingchuanliyu"
+    },
+    "location": {
+      "webm": "./assets/jingchuanliyu/jingchuanliyu.webm",
+      "mp3": "./assets/jingchuanliyu/jingchuanliyu.mp3"
+    }
+  },
+  {
+    "id": 19,
+    "machine_name": "jingle_bells",
+    "name": {
+      "cn_name": "铃儿响叮当",
+      "en_name": "jingle bells"
+    },
+    "location": {
+      "webm": "./assets/jingle_bells/jingle_bells.webm",
+      "mp3": "./assets/jingle_bells/jingle_bells.mp3"
+    }
+  },
+  {
+    "id": 20,
+    "machine_name": "lori_requiem",
+    "name": {
+      "cn_name": "萝莉神安魂曲",
+      "en_name": "Divine Purge!! Loli God Requiem"
+    },
+    "location": {
+      "webm": "./assets/lori_requiem/lori_requiem.webm",
+      "mp3": "./assets/lori_requiem/lori_requiem.mp3"
+    }
+  },
+  {
+    "id": 21,
+    "machine_name": "loveasfire",
+    "name": {
+      "cn_name": "爱如火",
+      "en_name": "loveasfire"
+    },
+    "location": {
+      "webm": "./assets/loveasfire/loveasfire.webm",
+      "mp3": "./assets/loveasfire/loveasfire.mp3"
+    }
+  },
+  {
+    "id": 22,
+    "machine_name": "lubinghua",
+    "name": {
+      "cn_name": "鲁冰花",
+      "en_name": "lubinghua"
+    },
+    "location": {
+      "webm": "./assets/lubinghua/lubinghua.webm",
+      "mp3": "./assets/lubinghua/lubinghua.mp3"
+    }
+  },
+  {
+    "id": 23,
+    "machine_name": "miku_oo_ee",
+    "name": {
+      "cn_name": "",
+      "en_name": "miku oo ee"
+    },
+    "location": {
+      "webm": "./assets/miku_oo_ee/miku_oo_ee.webm",
+      "mp3": "./assets/miku_oo_ee/miku_oo_ee.mp3"
+    }
+  },
+  {
+    "id": 24,
+    "machine_name": "naacho",
+    "name": {
+      "cn_name": "",
+      "en_name": "naacho"
+    },
+    "location": {
+      "webm": "./assets/naacho/naacho.webm",
+      "mp3": "./assets/naacho/naacho.mp3"
+    }
+  },
+  {
+    "id": 25,
+    "machine_name": "one_way_ticket",
+    "name": {
+      "cn_name": "单程票",
+      "en_name": "one way ticket"
+    },
+    "location": {
+      "webm": "./assets/one_way_ticket/one_way_ticket.webm",
+      "mp3": "./assets/one_way_ticket/one_way_ticket.mp3"
+    }
+  },
+  {
+    "id": 26,
+    "machine_name": "pokedance",
+    "name": {
+      "cn_name": "宝可梦舞蹈",
+      "en_name": "POKÉDANCE"
+    },
+    "location": {
+      "webm": "./assets/pokedance/pokedance.webm",
+      "mp3": "./assets/pokedance/pokedance.mp3"
+    }
+  },
+  {
+    "id": 27,
+    "machine_name": "psy_gangnam_style",
+    "name": {
+      "cn_name": "江南style",
+      "en_name": "psy gangnam style"
+    },
+    "location": {
+      "webm": "./assets/psy_gangnam_style/psy_gangnam_style.webm",
+      "mp3": "./assets/psy_gangnam_style/psy_gangnam_style.mp3"
+    }
+  },
+  {
+    "id": 28,
+    "machine_name": "pugua",
+    "name": {
+      "cn_name": "卜卦",
+      "en_name": "bugua"
+    },
+    "location": {
+      "webm": "./assets/pugua/pugua.webm",
+      "mp3": "./assets/pugua/pugua.mp3"
+    }
+  },
+  {
+    "id": 29,
+    "machine_name": "roly_poly",
+    "name": {
+      "cn_name": "",
+      "en_name": "roly poly"
+    },
+    "location": {
+      "webm": "./assets/roly_poly/roly_poly.webm",
+      "mp3": "./assets/roly_poly/roly_poly.mp3"
+    }
+  },
+  {
+    "id": 30,
+    "machine_name": "sexy_love",
+    "name": {
+      "cn_name": "",
+      "en_name": "sexy love"
+    },
+    "location": {
+      "webm": "./assets/sexy_love/sexy_love.webm",
+      "mp3": "./assets/sexy_love/sexy_love.mp3"
+    }
+  },
+  {
+    "id": 31,
+    "machine_name": "subject3",
+    "name": {
+      "cn_name": "科目三舞",
+      "en_name": "subject3"
+    },
+    "location": {
+      "webm": "./assets/subject3/subject3.webm",
+      "mp3": "./assets/subject3/subject3.mp3"
+    }
+  },
+  {
+    "id": 32,
+    "machine_name": "tocatoca",
+    "name": {
+      "cn_name": "",
+      "en_name": "tocatoca"
+    },
+    "location": {
+      "webm": "./assets/tocatoca/tocatoca.webm",
+      "mp3": "./assets/tocatoca/tocatoca.mp3"
+    }
+  },
+  {
+    "id": 33,
+    "machine_name": "touxin",
+    "name": {
+      "cn_name": "偷心",
+      "en_name": "touxin"
+    },
+    "location": {
+      "webm": "./assets/touxin/touxin.webm",
+      "mp3": "./assets/touxin/touxin.mp3"
+    }
+  },
+  {
+    "id": 34,
+    "machine_name": "up_dance",
+    "name": {
+      "cn_name": "",
+      "en_name": "up dance"
+    },
+    "location": {
+      "webm": "./assets/up_dance/up_dance.webm",
+      "mp3": "./assets/up_dance/up_dance.mp3"
+    }
+  },
+  {
+    "id": 35,
+    "machine_name": "wannabe",
+    "name": {
+      "cn_name": "",
+      "en_name": "wannabe"
+    },
+    "location": {
+      "webm": "./assets/wannabe/wannabe.webm",
+      "mp3": "./assets/wannabe/wannabe.mp3"
+    }
+  },
+  {
+    "id": 36,
+    "machine_name": "yoasobi_idol_dance",
+    "name": {
+      "cn_name": "",
+      "en_name": "yoasobi idol dance"
+    },
+    "location": {
+      "webm": "./assets/yoasobi_idol_dance/yoasobi_idol_dance.webm",
+      "mp3": "./assets/yoasobi_idol_dance/yoasobi_idol_dance.mp3"
+    }
+  }
+]
