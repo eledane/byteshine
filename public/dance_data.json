@@ -430,5 +430,497 @@
       "webm": "./assets/yoasobi_idol_dance/yoasobi_idol_dance.webm",
       "mp3": "./assets/yoasobi_idol_dance/yoasobi_idol_dance.mp3"
     }
+  },
+  {
+    "id": 37,
+    "machine_name": "520AM",
+    "name": {
+      "cn_name": "",
+      "en_name": "520AM"
+    },
+    "location": {
+      "webm": "./assets/520AM/520AM.webm",
+      "mp3": "./assets/520AM/520AM.mp3"
+    }
+  },
+  {
+    "id": 38,
+    "machine_name": "aidezhudage",
+    "name": {
+      "cn_name": "爱的主打歌",
+      "en_name": "aidezhudage"
+    },
+    "location": {
+      "webm": "./assets/aidezhudage/aidezhudage.webm",
+      "mp3": "./assets/aidezhudage/aidezhudage.mp3"
+    }
+  },
+  {
+    "id": 39,
+    "machine_name": "close_brother",
+    "name": {
+      "cn_name": "好兄弟",
+      "en_name": "close brother"
+    },
+    "location": {
+      "webm": "./assets/close_brother/close_brother.webm",
+      "mp3": "./assets/close_brother/close_brother.mp3"
+    }
+  },
+  {
+    "id": 40,
+    "machine_name": "kangguoqiang",
+    "name": {
+      "cn_name": "扛过枪放过羊",
+      "en_name": "kangguoqiang"
+    },
+    "location": {
+      "webm": "./assets/kangguoqiang/kangguoqiang.webm",
+      "mp3": "./assets/kangguoqiang/kangguoqiang.mp3"
+    }
+  },
+  {
+    "id": 41,
+    "machine_name": "lookatme",
+    "name": {
+      "cn_name": "",
+      "en_name": "lookatme"
+    },
+    "location": {
+      "webm": "./assets/lookatme/lookatme.webm",
+      "mp3": "./assets/lookatme/lookatme.mp3"
+    }
+  },
+  {
+    "id": 42,
+    "machine_name": "magnetic",
+    "name": {
+      "cn_name": "",
+      "en_name": "magnetic"
+    },
+    "location": {
+      "webm": "./assets/magnetic/magnetic.webm",
+      "mp3": "./assets/magnetic/magnetic.mp3"
+    }
+  },
+  {
+    "id": 43,
+    "machine_name": "phone_love",
+    "name": {
+      "cn_name": "电话情缘",
+      "en_name": "phone love"
+    },
+    "location": {
+      "webm": "./assets/phone_love/phone_love.webm",
+      "mp3": "./assets/phone_love/phone_love.mp3"
+    }
+  },
+  {
+    "id": 44,
+    "machine_name": "seventeen",
+    "name": {
+      "cn_name": "",
+      "en_name": "seventeen"
+    },
+    "location": {
+      "webm": "./assets/seventeen/seventeen.webm",
+      "mp3": "./assets/seventeen/seventeen.mp3"
+    }
+  },
+  {
+    "id": 45,
+    "machine_name": "shakeit",
+    "name": {
+      "cn_name": "",
+      "en_name": "shakeit"
+    },
+    "location": {
+      "webm": "./assets/shakeit/shakeit.webm",
+      "mp3": "./assets/shakeit/shakeit.mp3"
+    }
+  },
+  {
+    "id": 46,
+    "machine_name": "shenhua",
+    "name": {
+      "cn_name": "美丽的神话",
+      "en_name": "meilideshenha"
+    },
+    "location": {
+      "webm": "./assets/shenhua/shenhua.webm",
+      "mp3": "./assets/shenhua/shenhua.mp3"
+    }
+  },
+  {
+    "id": 47,
+    "machine_name": "warhorse",
+    "name": {
+      "cn_name": "战马",
+      "en_name": "warhorse"
+    },
+    "location": {
+      "webm": "./assets/warhorse/warhorse.webm",
+      "mp3": "./assets/warhorse/warhorse.mp3"
+    }
+  },
+  {
+    "id": 48,
+    "machine_name": "xiaoqicao",
+    "name": {
+      "cn_name": "消气操",
+      "en_name": "xiaoqicao"
+    },
+    "location": {
+      "webm": "./assets/xiaoqicao/xiaoqicao.webm",
+      "mp3": "./assets/xiaoqicao/xiaoqicao.mp3"
+    }
+  },
+  {
+    "id": 49,
+    "machine_name": "beatit",
+    "name": {
+      "cn_name": "",
+      "en_name": "beatit"
+    },
+    "location": {
+      "webm": "./assets/beatit/beatit.webm",
+      "mp3": "./assets/beatit/beatit.mp3"
+    }
+  },
+  {
+    "id": 50,
+    "machine_name": "budebuai",
+    "name": {
+      "cn_name": "不得不爱",
+      "en_name": "budebuai"
+    },
+    "location": {
+      "webm": "./assets/budebuai/budebuai.webm",
+      "mp3": "./assets/budebuai/budebuai.mp3"
+    }
+  },
+  {
+    "id": 51,
+    "machine_name": "ernianji_dance",
+    "name": {
+      "cn_name": "二年级舞蹈",
+      "en_name": "ernianji dance"
+    },
+    "location": {
+      "webm": "./assets/ernianji_dance/ernianji_dance.webm",
+      "mp3": "./assets/ernianji_dance/ernianji_dance.mp3"
+    }
+  },
+  {
+    "id": 52,
+    "machine_name": "fantastic_baby",
+    "name": {
+      "cn_name": "",
+      "en_name": "fantastic baby"
+    },
+    "location": {
+      "webm": "./assets/fantastic_baby/fantastic_baby.webm",
+      "mp3": "./assets/fantastic_baby/fantastic_baby.mp3"
+    }
+  },
+  {
+    "id": 53,
+    "machine_name": "juejiangdegutou",
+    "name": {
+      "cn_name": "倔强的骨头",
+      "en_name": "juejiangdegutou"
+    },
+    "location": {
+      "webm": "./assets/juejiangdegutou/juejiangdegutou.webm",
+      "mp3": "./assets/juejiangdegutou/juejiangdegutou.mp3"
+    }
+  },
+  {
+    "id": 54,
+    "machine_name": "mua_dance",
+    "name": {
+      "cn_name": "",
+      "en_name": "mua dance"
+    },
+    "location": {
+      "webm": "./assets/mua_dance/mua_dance.webm",
+      "mp3": "./assets/mua_dance/mua_dance.mp3"
+    }
+  },
+  {
+    "id": 55,
+    "machine_name": "rpg",
+    "name": {
+      "cn_name": "",
+      "en_name": "rpg"
+    },
+    "location": {
+      "webm": "./assets/rpg/rpg.webm",
+      "mp3": "./assets/rpg/rpg.mp3"
+    }
+  },
+  {
+    "id": 56,
+    "machine_name": "sa_dance",
+    "name": {
+      "cn_name": "飒 舞蹈",
+      "en_name": "sa dance"
+    },
+    "location": {
+      "webm": "./assets/sa_dance/sa_dance.webm",
+      "mp3": "./assets/sa_dance/sa_dance.mp3"
+    }
+  },
+  {
+    "id": 57,
+    "machine_name": "sailing",
+    "name": {
+      "cn_name": "",
+      "en_name": "sailing"
+    },
+    "location": {
+      "webm": "./assets/sailing/sailing.webm",
+      "mp3": "./assets/sailing/sailing.mp3"
+    }
+  },
+  {
+    "id": 58,
+    "machine_name": "tanghulu",
+    "name": {
+      "cn_name": "糖葫芦",
+      "en_name": "tanghulu"
+    },
+    "location": {
+      "webm": "./assets/tanghulu/tanghulu.webm",
+      "mp3": "./assets/tanghulu/tanghulu.mp3"
+    }
+  },
+  {
+    "id": 59,
+    "machine_name": "tfboys",
+    "name": {
+      "cn_name": "青春修炼手册",
+      "en_name": "tfboys"
+    },
+    "location": {
+      "webm": "./assets/tfboys/tfboys.webm",
+      "mp3": "./assets/tfboys/tfboys.mp3"
+    }
+  },
+  {
+    "id": 60,
+    "machine_name": "apts",
+    "name": {
+      "cn_name": "",
+      "en_name": "apts"
+    },
+    "location": {
+      "webm": "./assets/apts/apts.webm",
+      "mp3": "./assets/apts/apts.mp3"
+    }
+  },
+  {
+    "id": 61,
+    "machine_name": "byebyebye",
+    "name": {
+      "cn_name": "",
+      "en_name": "byebyebye"
+    },
+    "location": {
+      "webm": "./assets/byebyebye/byebyebye.webm",
+      "mp3": "./assets/byebyebye/byebyebye.mp3"
+    }
+  },
+  {
+    "id": 62,
+    "machine_name": "fengchuiyixia",
+    "name": {
+      "cn_name": "风吹一夏",
+      "en_name": "fengchuiyixia"
+    },
+    "location": {
+      "webm": "./assets/fengchuiyixia/fengchuiyixia.webm",
+      "mp3": "./assets/fengchuiyixia/fengchuiyixia.mp3"
+    }
+  },
+  {
+    "id": 63,
+    "machine_name": "haohange",
+    "name": {
+      "cn_name": "好汉歌",
+      "en_name": "haohange"
+    },
+    "location": {
+      "webm": "./assets/haohange/haohange.webm",
+      "mp3": "./assets/haohange/haohange.mp3"
+    }
+  },
+  {
+    "id": 64,
+    "machine_name": "hejiuge",
+    "name": {
+      "cn_name": "喝酒吧",
+      "en_name": "hejiuba"
+    },
+    "location": {
+      "webm": "./assets/hejiuge/hejiuge.webm",
+      "mp3": "./assets/hejiuge/hejiuge.mp3"
+    }
+  },
+  {
+    "id": 65,
+    "machine_name": "heshangzhuangzhong",
+    "name": {
+      "cn_name": "和尚撞钟",
+      "en_name": "heshangzhuangzhong"
+    },
+    "location": {
+      "webm": "./assets/heshangzhuangzhong/heshangzhuangzhong.webm",
+      "mp3": "./assets/heshangzhuangzhong/heshangzhuangzhong.mp3"
+    }
+  },
+  {
+    "id": 66,
+    "machine_name": "nanana",
+    "name": {
+      "cn_name": "Na Na Na",
+      "en_name": "right now"
+    },
+    "location": {
+      "webm": "./assets/nanana/nanana.webm",
+      "mp3": "./assets/nanana/nanana.mp3"
+    }
+  },
+  {
+    "id": 67,
+    "machine_name": "renjianbantu",
+    "name": {
+      "cn_name": "人间半途",
+      "en_name": "renjianbantu"
+    },
+    "location": {
+      "webm": "./assets/renjianbantu/renjianbantu.webm",
+      "mp3": "./assets/renjianbantu/renjianbantu.mp3"
+    }
+  },
+  {
+    "id": 68,
+    "machine_name": "ringringring",
+    "name": {
+      "cn_name": "ring ring ring",
+      "en_name": "ringringring"
+    },
+    "location": {
+      "webm": "./assets/ringringring/ringringring.webm",
+      "mp3": "./assets/ringringring/ringringring.mp3"
+    }
+  },
+  {
+    "id": 69,
+    "machine_name": "sizhubupakaishuitang",
+    "name": {
+      "cn_name": "死猪不怕开水烫",
+      "en_name": "sizhubupakaishuitang"
+    },
+    "location": {
+      "webm": "./assets/sizhubupakaishuitang/sizhubupakaishuitang.webm",
+      "mp3": "./assets/sizhubupakaishuitang/sizhubupakaishuitang.mp3"
+    }
+  },
+  {
+    "id": 70,
+    "machine_name": "tianlingdilingling",
+    "name": {
+      "cn_name": "天灵灵地灵灵",
+      "en_name": "tianlingdilingling"
+    },
+    "location": {
+      "webm": "./assets/tianlingdilingling/tianlingdilingling.webm",
+      "mp3": "./assets/tianlingdilingling/tianlingdilingling.mp3"
+    }
+  },
+  {
+    "id": 71,
+    "machine_name": "tianyayao",
+    "name": {
+      "cn_name": "天涯摇",
+      "en_name": "tianyayao"
+    },
+    "location": {
+      "webm": "./assets/tianyayao/tianyayao.webm",
+      "mp3": "./assets/tianyayao/tianyayao.mp3"
+    }
+  },
+  {
+    "id": 72,
+    "machine_name": "toobusydance",
+    "name": {
+      "cn_name": "",
+      "en_name": "toobusydance"
+    },
+    "location": {
+      "webm": "./assets/toobusydance/toobusydance.webm",
+      "mp3": "./assets/toobusydance/toobusydance.mp3"
+    }
+  },
+  {
+    "id": 73,
+    "machine_name": "traintospring",
+    "name": {
+      "cn_name": "列车开往那春天",
+      "en_name": "traintospring"
+    },
+    "location": {
+      "webm": "./assets/traintospring/traintospring.webm",
+      "mp3": "./assets/traintospring/traintospring.mp3"
+    }
+  },
+  {
+    "id": 74,
+    "machine_name": "trouble_maker",
+    "name": {
+      "cn_name": "麻烦制造者",
+      "en_name": "trouble maker"
+    },
+    "location": {
+      "webm": "./assets/trouble_maker/trouble_maker.webm",
+      "mp3": "./assets/trouble_maker/trouble_maker.mp3"
+    }
+  },
+  {
+    "id": 75,
+    "machine_name": "wanwusheng",
+    "name": {
+      "cn_name": "万物生",
+      "en_name": "wanwusheng"
+    },
+    "location": {
+      "webm": "./assets/wanwusheng/wanwusheng.webm",
+      "mp3": "./assets/wanwusheng/wanwusheng.mp3"
+    }
+  },
+  {
+    "id": 76,
+    "machine_name": "wobujianfei",
+    "name": {
+      "cn_name": "我不减肥",
+      "en_name": "wobujianfei"
+    },
+    "location": {
+      "webm": "./assets/wobujianfei/wobujianfei.webm",
+      "mp3": "./assets/wobujianfei/wobujianfei.mp3"
+    }
+  },
+  {
+    "id": 77,
+    "machine_name": "xingqiyao",
+    "name": {
+      "cn_name": "星奇摇",
+      "en_name": "xingqiyao"
+    },
+    "location": {
+      "webm": "./assets/xingqiyao/xingqiyao.webm",
+      "mp3": "./assets/xingqiyao/xingqiyao.mp3"
+    }
   }
 ]
