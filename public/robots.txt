@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Baidu spider
+User-agent: Baiduspider
+Allow: /
+
+# Block crawling raw assets to save crawl budget
+Disallow: /assets/
+
+Sitemap: https://byteshine.com/sitemap.xml
