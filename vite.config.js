@@ -16,5 +16,6 @@ export default defineConfig({
     assetsInlineLimit: 4096,
     // Generate source maps only in dev
     sourcemap: false,
+    cssCodeSplit: true,
   },
 });

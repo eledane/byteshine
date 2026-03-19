@@ -1,7 +1,7 @@
 import styles from '../styles/Modal.module.css';
 
 function getPosterPath(item) {
-  return item.location.webm.replace(/\.webm$/, '.png');
+  return item.location.webm.replace(/\.webm$/, '.webp');
 }
 
 export default function Modal({ item, onClose }) {

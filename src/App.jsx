@@ -52,7 +52,7 @@ export default function App() {
         searchTerm={searchTerm}
         onSearchChange={setSearchTerm}
       />
-
+    <main>
       <Gallery
         data={filteredData}
         loading={loading}
@@ -61,7 +61,7 @@ export default function App() {
         onLoadMore={handleLoadMore}
         onOpen={handleOpenModal}
       />
-
+    </main>
       <Footer totalCount={allData.length} />
 
       {modalItem && (

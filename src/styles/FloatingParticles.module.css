@@ -22,5 +22,5 @@
   display: block;
   animation: floatUp linear infinite;
   user-select: none;
-  filter: drop-shadow(0 2px 4px rgba(255, 133, 162, 0.3));
+  will-change: transform, opacity;
 }

@@ -12,7 +12,7 @@ export default function Footer({ totalCount }) {
         <div className={styles.wechatWrapper}>
           <a href="#" title="WeChat" className={styles.wechatIcon}>💬</a>
           <div className={styles.qrPopup}>
-            <img src="/wechat_qr.png" alt="WeChat QR Code" />
+            <img src="/wechat_qr.png" alt="WeChat QR Code" width="160" height="180" />
             <p>扫码添加微信</p>
           </div>
         </div>
@@ -22,7 +22,7 @@ export default function Footer({ totalCount }) {
         <a href="mailto:guangzhiwoxin@gmail.com" title="Email">✉️</a>
       </div>
 
-      <p className={styles.copyright}>© 2026 Byteshine | kawaii dance!</p>
+      <p className={styles.copyright}>© 2023 - 2026 Byteshine | kawaii dance!</p>
     </footer>
   );
 }
