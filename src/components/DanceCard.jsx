@@ -24,6 +24,14 @@ export default function DanceCard({ item, index, onOpen }) {
   }, []);
 
   const handleMouseEnter = () => {
+    
+    if (audioRef.current) {
+      // Set src on first hover only — prevents browser pre-buffering
+      if (!audioRef.current.src || audioRef.current.src === window.location.href) {
+        audioRef.current.src = item.location.mp3;
+      }
+      audioRef.current.play().catch(() => {});
+    }
     if (videoRef.current) videoRef.current.play().catch(() => {});
     if (audioRef.current) audioRef.current.play().catch(() => {});
   };
@@ -64,7 +72,7 @@ export default function DanceCard({ item, index, onOpen }) {
               muted loop playsInline
               preload="none"
             />
-            <audio ref={audioRef} src={item.location.mp3} loop />
+            <audio ref={audioRef} loop />
           </>
         ) : (
           // Placeholder shown before card enters viewport — just the poster image
