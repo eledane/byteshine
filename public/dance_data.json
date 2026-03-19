@@ -927,12 +927,60 @@
     "id": 78,
     "machine_name": "bencaogangmu",
     "name": {
-      "cn_name": "",
+      "cn_name": "本草纲目",
       "en_name": "bencaogangmu"
     },
     "location": {
       "webm": "./assets/bencaogangmu/bencaogangmu.webm",
       "mp3": "./assets/bencaogangmu/bencaogangmu.mp3"
+    }
+  },
+  {
+    "id": 79,
+    "machine_name": "dingdingdangdang",
+    "name": {
+      "cn_name": "叮叮当当舞",
+      "en_name": "dingdingdangdang"
+    },
+    "location": {
+      "webm": "./assets/dingdingdangdang/dingdingdangdang.webm",
+      "mp3": "./assets/dingdingdangdang/dingdingdangdang.mp3"
+    }
+  },
+  {
+    "id": 80,
+    "machine_name": "qizaiyao",
+    "name": {
+      "cn_name": "七仔摇",
+      "en_name": "qizaiyao"
+    },
+    "location": {
+      "webm": "./assets/qizaiyao/qizaiyao.webm",
+      "mp3": "./assets/qizaiyao/qizaiyao.mp3"
+    }
+  },
+  {
+    "id": 81,
+    "machine_name": "babyshark",
+    "name": {
+      "cn_name": "",
+      "en_name": "babyshark"
+    },
+    "location": {
+      "webm": "./assets/babyshark/babyshark.webm",
+      "mp3": "./assets/babyshark/babyshark.mp3"
+    }
+  },
+  {
+    "id": 82,
+    "machine_name": "hot_sauce",
+    "name": {
+      "cn_name": "",
+      "en_name": "hot sauce"
+    },
+    "location": {
+      "webm": "./assets/hot_sauce/hot_sauce.webm",
+      "mp3": "./assets/hot_sauce/hot_sauce.mp3"
     }
   }
 ]

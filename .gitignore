@@ -6,5 +6,6 @@ node_modules
 
 #ignore specific files
 public/array2json.py
+public/characters.txt
 public/*.py
 public/assets/**/*.mp4
