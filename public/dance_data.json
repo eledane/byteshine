@@ -922,5 +922,17 @@
       "webm": "./assets/xingqiyao/xingqiyao.webm",
       "mp3": "./assets/xingqiyao/xingqiyao.mp3"
     }
+  },
+  {
+    "id": 78,
+    "machine_name": "bencaogangmu",
+    "name": {
+      "cn_name": "",
+      "en_name": "bencaogangmu"
+    },
+    "location": {
+      "webm": "./assets/bencaogangmu/bencaogangmu.webm",
+      "mp3": "./assets/bencaogangmu/bencaogangmu.mp3"
+    }
   }
 ]
