@@ -16,8 +16,7 @@ export default function Footer({ totalCount }) {
             <p>扫码添加微信</p>
           </div>
         </div>
-
-        <a href="https://github.com/eledane" title="GitHub" target="_blank" rel="noreferrer">🐙</a>
+        {/* <a href="https://github.com/eledane" title="GitHub" target="_blank" rel="noreferrer">🐙</a> */}
         <a href="https://space.bilibili.com/3493282912930141" title="Bilibili" target="_blank" rel="noreferrer">📺</a>
         <a href="mailto:guangzhiwoxin@gmail.com" title="Email">✉️</a>
       </div>

@@ -982,5 +982,185 @@
       "webm": "./assets/hot_sauce/hot_sauce.webm",
       "mp3": "./assets/hot_sauce/hot_sauce.mp3"
     }
+  },
+  {
+    "id": 83,
+    "machine_name": "anh_khong",
+    "name": {
+      "cn_name": "",
+      "en_name": "anh khong"
+    },
+    "location": {
+      "webm": "./assets/anh_khong/anh_khong.webm",
+      "mp3": "./assets/anh_khong/anh_khong.mp3"
+    }
+  },
+  {
+    "id": 84,
+    "machine_name": "aslongasyouloveme",
+    "name": {
+      "cn_name": "",
+      "en_name": "aslongasyouloveme"
+    },
+    "location": {
+      "webm": "./assets/aslongasyouloveme/aslongasyouloveme.webm",
+      "mp3": "./assets/aslongasyouloveme/aslongasyouloveme.mp3"
+    }
+  },
+  {
+    "id": 85,
+    "machine_name": "da_me_un_grrr",
+    "name": {
+      "cn_name": "",
+      "en_name": "da me un grrr"
+    },
+    "location": {
+      "webm": "./assets/da_me_un_grrr/da_me_un_grrr.webm",
+      "mp3": "./assets/da_me_un_grrr/da_me_un_grrr.mp3"
+    }
+  },
+  {
+    "id": 86,
+    "machine_name": "diy_jolin",
+    "name": {
+      "cn_name": "diy jolin",
+      "en_name": "diy jolin"
+    },
+    "location": {
+      "webm": "./assets/diy_jolin/diy_jolin.webm",
+      "mp3": "./assets/diy_jolin/diy_jolin.mp3"
+    }
+  },
+  {
+    "id": 87,
+    "machine_name": "dura",
+    "name": {
+      "cn_name": "",
+      "en_name": "dura"
+    },
+    "location": {
+      "webm": "./assets/dura/dura.webm",
+      "mp3": "./assets/dura/dura.mp3"
+    }
+  },
+  {
+    "id": 88,
+    "machine_name": "high_school_rock_and_roll",
+    "name": {
+      "cn_name": "",
+      "en_name": "high school rock and roll"
+    },
+    "location": {
+      "webm": "./assets/high_school_rock_and_roll/high_school_rock_and_roll.webm",
+      "mp3": "./assets/high_school_rock_and_roll/high_school_rock_and_roll.mp3"
+    }
+  },
+  {
+    "id": 89,
+    "machine_name": "jp_daidaidai",
+    "name": {
+      "cn_name": "",
+      "en_name": "jp daidaidai"
+    },
+    "location": {
+      "webm": "./assets/jp_daidaidai/jp_daidaidai.webm",
+      "mp3": "./assets/jp_daidaidai/jp_daidaidai.mp3"
+    }
+  },
+  {
+    "id": 90,
+    "machine_name": "lady_electra",
+    "name": {
+      "cn_name": "",
+      "en_name": "lady electra"
+    },
+    "location": {
+      "webm": "./assets/lady_electra/lady_electra.webm",
+      "mp3": "./assets/lady_electra/lady_electra.mp3"
+    }
+  },
+  {
+    "id": 91,
+    "machine_name": "nideyangzi",
+    "name": {
+      "cn_name": "你的样子",
+      "en_name": "nideyangzi"
+    },
+    "location": {
+      "webm": "./assets/nideyangzi/nideyangzi.webm",
+      "mp3": "./assets/nideyangzi/nideyangzi.mp3"
+    }
+  },
+  {
+    "id": 92,
+    "machine_name": "pingguoxiang",
+    "name": {
+      "cn_name": "苹果香",
+      "en_name": "pingguoxiang"
+    },
+    "location": {
+      "webm": "./assets/pingguoxiang/pingguoxiang.webm",
+      "mp3": "./assets/pingguoxiang/pingguoxiang.mp3"
+    }
+  },
+  {
+    "id": 93,
+    "machine_name": "shuaicongge",
+    "name": {
+      "cn_name": "甩葱歌",
+      "en_name": "shuaicongge"
+    },
+    "location": {
+      "webm": "./assets/shuaicongge/shuaicongge.webm",
+      "mp3": "./assets/shuaicongge/shuaicongge.mp3"
+    }
+  },
+  {
+    "id": 94,
+    "machine_name": "trouble_is_a_friend",
+    "name": {
+      "cn_name": "",
+      "en_name": "trouble is a friend"
+    },
+    "location": {
+      "webm": "./assets/trouble_is_a_friend/trouble_is_a_friend.webm",
+      "mp3": "./assets/trouble_is_a_friend/trouble_is_a_friend.mp3"
+    }
+  },
+  {
+    "id": 95,
+    "machine_name": "up_v2",
+    "name": {
+      "cn_name": "",
+      "en_name": "up v2"
+    },
+    "location": {
+      "webm": "./assets/up_v2/up_v2.webm",
+      "mp3": "./assets/up_v2/up_v2.mp3"
+    }
+  },
+  {
+    "id": 96,
+    "machine_name": "xiaocunzhuangyuewanwan",
+    "name": {
+      "cn_name": "小村庄月弯弯",
+      "en_name": "xiaocunzhuangyuewanwan"
+    },
+    "location": {
+      "webm": "./assets/xiaocunzhuangyuewanwan/xiaocunzhuangyuewanwan.webm",
+      "mp3": "./assets/xiaocunzhuangyuewanwan/xiaocunzhuangyuewanwan.mp3"
+    }
+  },
+  {
+    "id": 97,
+    "machine_name": "xoxo",
+    "name": {
+      "cn_name": "",
+      "en_name": "xoxo"
+    },
+    "location": {
+      "webm": "./assets/xoxo/xoxo.webm",
+      "mp3": "./assets/xoxo/xoxo.mp3"
+    }
   }
 ]
