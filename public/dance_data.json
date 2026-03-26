@@ -1162,5 +1162,257 @@
       "webm": "./assets/xoxo/xoxo.webm",
       "mp3": "./assets/xoxo/xoxo.mp3"
     }
+  },
+  {
+    "id": 98,
+    "machine_name": "answer_the_phone",
+    "name": {
+      "cn_name": "电话情缘 完整版",
+      "en_name": "answer the phone"
+    },
+    "location": {
+      "webm": "./assets/answer_the_phone/answer_the_phone.webm",
+      "mp3": "./assets/answer_the_phone/answer_the_phone.mp3"
+    }
+  },
+  {
+    "id": 99,
+    "machine_name": "byebyebye_v2",
+    "name": {
+      "cn_name": "死侍舞 完整版",
+      "en_name": "byebyebye v2"
+    },
+    "location": {
+      "webm": "./assets/byebyebye_v2/byebyebye_v2.webm",
+      "mp3": "./assets/byebyebye_v2/byebyebye_v2.mp3"
+    }
+  },
+  {
+    "id": 100,
+    "machine_name": "casper_chacha_slide",
+    "name": {
+      "cn_name": "",
+      "en_name": "casper chacha slide"
+    },
+    "location": {
+      "webm": "./assets/casper_chacha_slide/casper_chacha_slide.webm",
+      "mp3": "./assets/casper_chacha_slide/casper_chacha_slide.mp3"
+    }
+  },
+  {
+    "id": 101,
+    "machine_name": "daguangwu",
+    "name": {
+      "cn_name": "打光舞",
+      "en_name": "daguangwu"
+    },
+    "location": {
+      "webm": "./assets/daguangwu/daguangwu.webm",
+      "mp3": "./assets/daguangwu/daguangwu.mp3"
+    }
+  },
+  {
+    "id": 102,
+    "machine_name": "daybyday",
+    "name": {
+      "cn_name": "day by day",
+      "en_name": "day by day"
+    },
+    "location": {
+      "webm": "./assets/daybyday/daybyday.webm",
+      "mp3": "./assets/daybyday/daybyday.mp3"
+    }
+  },
+  {
+    "id": 103,
+    "machine_name": "fengqingjiteba",
+    "name": {
+      "cn_name": "风情吉特巴",
+      "en_name": "fengqingjiteba"
+    },
+    "location": {
+      "webm": "./assets/fengqingjiteba/fengqingjiteba.webm",
+      "mp3": "./assets/fengqingjiteba/fengqingjiteba.mp3"
+    }
+  },
+  {
+    "id": 104,
+    "machine_name": "hotlikeme",
+    "name": {
+      "cn_name": "hot like me",
+      "en_name": "hotlikeme"
+    },
+    "location": {
+      "webm": "./assets/hotlikeme/hotlikeme.webm",
+      "mp3": "./assets/hotlikeme/hotlikeme.mp3"
+    }
+  },
+  {
+    "id": 105,
+    "machine_name": "huhuashizhe",
+    "name": {
+      "cn_name": "护花使者",
+      "en_name": "huhuashizhe"
+    },
+    "location": {
+      "webm": "./assets/huhuashizhe/huhuashizhe.webm",
+      "mp3": "./assets/huhuashizhe/huhuashizhe.mp3"
+    }
+  },
+  {
+    "id": 106,
+    "machine_name": "letsgo",
+    "name": {
+      "cn_name": "let's go",
+      "en_name": "letsgo"
+    },
+    "location": {
+      "webm": "./assets/letsgo/letsgo.webm",
+      "mp3": "./assets/letsgo/letsgo.mp3"
+    }
+  },
+  {
+    "id": 107,
+    "machine_name": "longzhouwu",
+    "name": {
+      "cn_name": "龙舟舞",
+      "en_name": "longzhouwu"
+    },
+    "location": {
+      "webm": "./assets/longzhouwu/longzhouwu.webm",
+      "mp3": "./assets/longzhouwu/longzhouwu.mp3"
+    }
+  },
+  {
+    "id": 108,
+    "machine_name": "maniqingge",
+    "name": {
+      "cn_name": "玛尼情歌",
+      "en_name": "maniqingge"
+    },
+    "location": {
+      "webm": "./assets/maniqingge/maniqingge.webm",
+      "mp3": "./assets/maniqingge/maniqingge.mp3"
+    }
+  },
+  {
+    "id": 109,
+    "machine_name": "meimeisangnei",
+    "name": {
+      "cn_name": "美美桑内",
+      "en_name": "meimeisangnei"
+    },
+    "location": {
+      "webm": "./assets/meimeisangnei/meimeisangnei.webm",
+      "mp3": "./assets/meimeisangnei/meimeisangnei.mp3"
+    }
+  },
+  {
+    "id": 110,
+    "machine_name": "menggujixingqu",
+    "name": {
+      "cn_name": "蒙古进行曲",
+      "en_name": "meng gu jin xing qu"
+    },
+    "location": {
+      "webm": "./assets/menggujixingqu/menggujixingqu.webm",
+      "mp3": "./assets/menggujixingqu/menggujixingqu.mp3"
+    }
+  },
+  {
+    "id": 111,
+    "machine_name": "rightnow",
+    "name": {
+      "cn_name": "",
+      "en_name": "rightnow"
+    },
+    "location": {
+      "webm": "./assets/rightnow/rightnow.webm",
+      "mp3": "./assets/rightnow/rightnow.mp3"
+    }
+  },
+  {
+    "id": 112,
+    "machine_name": "seetinh",
+    "name": {
+      "cn_name": "",
+      "en_name": "seetinh"
+    },
+    "location": {
+      "webm": "./assets/seetinh/seetinh.webm",
+      "mp3": "./assets/seetinh/seetinh.mp3"
+    }
+  },
+  {
+    "id": 113,
+    "machine_name": "talang",
+    "name": {
+      "cn_name": "踏浪",
+      "en_name": "ta lang"
+    },
+    "location": {
+      "webm": "./assets/talang/talang.webm",
+      "mp3": "./assets/talang/talang.mp3"
+    }
+  },
+  {
+    "id": 114,
+    "machine_name": "tanguzhi",
+    "name": {
+      "cn_name": "探故知",
+      "en_name": "tanguzhi"
+    },
+    "location": {
+      "webm": "./assets/tanguzhi/tanguzhi.webm",
+      "mp3": "./assets/tanguzhi/tanguzhi.mp3"
+    }
+  },
+  {
+    "id": 115,
+    "machine_name": "vietnam-subject3",
+    "name": {
+      "cn_name": "科目三 完整版",
+      "en_name": "subject3"
+    },
+    "location": {
+      "webm": "./assets/vietnam-subject3/vietnam-subject3.webm",
+      "mp3": "./assets/vietnam-subject3/vietnam-subject3.mp3"
+    }
+  },
+  {
+    "id": 116,
+    "machine_name": "youandme",
+    "name": {
+      "cn_name": "你和我",
+      "en_name": "youandme"
+    },
+    "location": {
+      "webm": "./assets/youandme/youandme.webm",
+      "mp3": "./assets/youandme/youandme.mp3"
+    }
+  },
+  {
+    "id": 117,
+    "machine_name": "yuanyangxidj",
+    "name": {
+      "cn_name": "鸳鸯溪 dj",
+      "en_name": "yuanyangxi dj"
+    },
+    "location": {
+      "webm": "./assets/yuanyangxidj/yuanyangxidj.webm",
+      "mp3": "./assets/yuanyangxidj/yuanyangxidj.mp3"
+    }
+  },
+  {
+    "id": 118,
+    "machine_name": "zhubajiebeixifu",
+    "name": {
+      "cn_name": "猪八戒背媳妇",
+      "en_name": "zhu ba jie bei xi fu"
+    },
+    "location": {
+      "webm": "./assets/zhubajiebeixifu/zhubajiebeixifu.webm",
+      "mp3": "./assets/zhubajiebeixifu/zhubajiebeixifu.mp3"
+    }
   }
 ]
