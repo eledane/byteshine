@@ -1414,5 +1414,257 @@
       "webm": "./assets/zhubajiebeixifu/zhubajiebeixifu.webm",
       "mp3": "./assets/zhubajiebeixifu/zhubajiebeixifu.mp3"
     }
+  },
+  {
+    "id": 119,
+    "machine_name": "astronomia",
+    "name": {
+      "cn_name": "",
+      "en_name": "astronomia"
+    },
+    "location": {
+      "webm": "./assets/astronomia/astronomia.webm",
+      "mp3": "./assets/astronomia/astronomia.mp3"
+    }
+  },
+  {
+    "id": 120,
+    "machine_name": "beautiful_girl_innocent",
+    "name": {
+      "cn_name": "",
+      "en_name": "beautiful girl innocent"
+    },
+    "location": {
+      "webm": "./assets/beautiful_girl_innocent/beautiful_girl_innocent.webm",
+      "mp3": "./assets/beautiful_girl_innocent/beautiful_girl_innocent.mp3"
+    }
+  },
+  {
+    "id": 121,
+    "machine_name": "biaobaiwu",
+    "name": {
+      "cn_name": "",
+      "en_name": "biaobaiwu"
+    },
+    "location": {
+      "webm": "./assets/biaobaiwu/biaobaiwu.webm",
+      "mp3": "./assets/biaobaiwu/biaobaiwu.mp3"
+    }
+  },
+  {
+    "id": 122,
+    "machine_name": "bubblepop",
+    "name": {
+      "cn_name": "",
+      "en_name": "bubblepop"
+    },
+    "location": {
+      "webm": "./assets/bubblepop/bubblepop.webm",
+      "mp3": "./assets/bubblepop/bubblepop.mp3"
+    }
+  },
+  {
+    "id": 123,
+    "machine_name": "cadelinha_de_madame_v2",
+    "name": {
+      "cn_name": "",
+      "en_name": "cadelinha de madame v2"
+    },
+    "location": {
+      "webm": "./assets/cadelinha_de_madame_v2/cadelinha_de_madame_v2.webm",
+      "mp3": "./assets/cadelinha_de_madame_v2/cadelinha_de_madame_v2.mp3"
+    }
+  },
+  {
+    "id": 124,
+    "machine_name": "detrix",
+    "name": {
+      "cn_name": "",
+      "en_name": "detrix"
+    },
+    "location": {
+      "webm": "./assets/detrix/detrix.webm",
+      "mp3": "./assets/detrix/detrix.mp3"
+    }
+  },
+  {
+    "id": 125,
+    "machine_name": "fairly_oddParents",
+    "name": {
+      "cn_name": "",
+      "en_name": "fairly oddParents"
+    },
+    "location": {
+      "webm": "./assets/fairly_oddParents/fairly_oddParents.webm",
+      "mp3": "./assets/fairly_oddParents/fairly_oddParents.mp3"
+    }
+  },
+  {
+    "id": 126,
+    "machine_name": "gold_kiiara",
+    "name": {
+      "cn_name": "",
+      "en_name": "gold kiiara"
+    },
+    "location": {
+      "webm": "./assets/gold_kiiara/gold_kiiara.webm",
+      "mp3": "./assets/gold_kiiara/gold_kiiara.mp3"
+    }
+  },
+  {
+    "id": 127,
+    "machine_name": "jp_more_jump",
+    "name": {
+      "cn_name": "",
+      "en_name": "jp more jump"
+    },
+    "location": {
+      "webm": "./assets/jp_more_jump/jp_more_jump.webm",
+      "mp3": "./assets/jp_more_jump/jp_more_jump.mp3"
+    }
+  },
+  {
+    "id": 128,
+    "machine_name": "likaiwoxinhuihentong",
+    "name": {
+      "cn_name": "",
+      "en_name": "likaiwoxinhuihentong"
+    },
+    "location": {
+      "webm": "./assets/likaiwoxinhuihentong/likaiwoxinhuihentong.webm",
+      "mp3": "./assets/likaiwoxinhuihentong/likaiwoxinhuihentong.mp3"
+    }
+  },
+  {
+    "id": 129,
+    "machine_name": "mayinghua",
+    "name": {
+      "cn_name": "",
+      "en_name": "mayinghua"
+    },
+    "location": {
+      "webm": "./assets/mayinghua/mayinghua.webm",
+      "mp3": "./assets/mayinghua/mayinghua.mp3"
+    }
+  },
+  {
+    "id": 130,
+    "machine_name": "penguins_game",
+    "name": {
+      "cn_name": "",
+      "en_name": "penguins game"
+    },
+    "location": {
+      "webm": "./assets/penguins_game/penguins_game.webm",
+      "mp3": "./assets/penguins_game/penguins_game.mp3"
+    }
+  },
+  {
+    "id": 131,
+    "machine_name": "ribuluo",
+    "name": {
+      "cn_name": "",
+      "en_name": "ribuluo"
+    },
+    "location": {
+      "webm": "./assets/ribuluo/ribuluo.webm",
+      "mp3": "./assets/ribuluo/ribuluo.mp3"
+    }
+  },
+  {
+    "id": 132,
+    "machine_name": "ru_dadada",
+    "name": {
+      "cn_name": "",
+      "en_name": "ru dadada"
+    },
+    "location": {
+      "webm": "./assets/ru_dadada/ru_dadada.webm",
+      "mp3": "./assets/ru_dadada/ru_dadada.mp3"
+    }
+  },
+  {
+    "id": 133,
+    "machine_name": "rude_boy",
+    "name": {
+      "cn_name": "",
+      "en_name": "rude boy"
+    },
+    "location": {
+      "webm": "./assets/rude_boy/rude_boy.webm",
+      "mp3": "./assets/rude_boy/rude_boy.mp3"
+    }
+  },
+  {
+    "id": 134,
+    "machine_name": "shake_it_to_the_max",
+    "name": {
+      "cn_name": "",
+      "en_name": "shake it to the max"
+    },
+    "location": {
+      "webm": "./assets/shake_it_to_the_max/shake_it_to_the_max.webm",
+      "mp3": "./assets/shake_it_to_the_max/shake_it_to_the_max.mp3"
+    }
+  },
+  {
+    "id": 135,
+    "machine_name": "uno",
+    "name": {
+      "cn_name": "",
+      "en_name": "uno"
+    },
+    "location": {
+      "webm": "./assets/uno/uno.webm",
+      "mp3": "./assets/uno/uno.mp3"
+    }
+  },
+  {
+    "id": 136,
+    "machine_name": "vai_rola_uma_festinha",
+    "name": {
+      "cn_name": "",
+      "en_name": "vai rola uma festinha"
+    },
+    "location": {
+      "webm": "./assets/vai_rola_uma_festinha/vai_rola_uma_festinha.webm",
+      "mp3": "./assets/vai_rola_uma_festinha/vai_rola_uma_festinha.mp3"
+    }
+  },
+  {
+    "id": 137,
+    "machine_name": "velocidade6",
+    "name": {
+      "cn_name": "",
+      "en_name": "velocidade6"
+    },
+    "location": {
+      "webm": "./assets/velocidade6/velocidade6.webm",
+      "mp3": "./assets/velocidade6/velocidade6.mp3"
+    }
+  },
+  {
+    "id": 138,
+    "machine_name": "vivila_of_night",
+    "name": {
+      "cn_name": "",
+      "en_name": "vivila of night"
+    },
+    "location": {
+      "webm": "./assets/vivila_of_night/vivila_of_night.webm",
+      "mp3": "./assets/vivila_of_night/vivila_of_night.mp3"
+    }
+  },
+  {
+    "id": 139,
+    "machine_name": "yaotaiyang",
+    "name": {
+      "cn_name": "",
+      "en_name": "yaotaiyang"
+    },
+    "location": {
+      "webm": "./assets/yaotaiyang/yaotaiyang.webm",
+      "mp3": "./assets/yaotaiyang/yaotaiyang.mp3"
+    }
   }
 ]
